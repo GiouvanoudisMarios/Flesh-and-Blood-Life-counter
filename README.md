@@ -28,11 +28,11 @@ CSS: Styled with custom CSS for a clean and responsive design.
 
 ### Life Counter
 
-![Life Counter](screenshots/READMEscreenshotUI.png)
+![Life Counter](Screenshots/READMEscreenshotUI.png)
 
 ### Hero Selection Modal
 
-![Hero Selection Modal](READMEscreenshotModall.png)
+![Hero Selection Modal](Screenshots/READMEscreenshotModal.png)
 
 ## Future Features
 
